@@ -17,7 +17,7 @@ My name is Iker Caballero Bragagnini, I am a graduate student in Statistics and 
 ### My Ambition
 
 <div style="text-align: justify;">
-The main ambition of the Quanty Bounty is to become one of the most complete sources of information and academic resources for Spanish-speaking students and others interested in technical disciplines like mathematics, statistics, and computer science, but also in important areas for society such as economics. These are notes based on the most relevant literature in the different areas and have been written by me during my studies and my free time.
+The main ambition of the Quanty Bounty is to become one of the most complete sources of information and academic resources for Spanish-speaking students and others interested in technical disciplines like mathematics, statistics, and computer science, but also in important areas for society such as economics. These are notes based on the most relevant literature in the different areas and have been written by me during my studies and my free time.\\
 
 I want every Spanish-speaking person to have free access to educational resources in the disciplines I am most interested in, and I hope readers can build a collaborative space to help each other.
 <\div>
