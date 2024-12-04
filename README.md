@@ -6,7 +6,7 @@ One of the most ambitious projects made by a Spanish student, for other Spanish-
 
 Hi, y'all! Welcome to the repository of my most ambitious project: the Quanty Bounty. Before delving into this project, I want to present myself.
 
-![Me at the Umeda Sky Building](images/your_image.png)
+![Me at the Umeda Sky Building](images/Umeda_Sky.jpg)
 
 My name is Iker Caballero Bragagnini, I am a graduate student in Statistics and Mathematics with a background in Economics and Econometrics. I also work in the financial industry as a Quantitative Researcher & Developer for a Dutch fund and I also worked as a Quantitative Risk Analyst at Deloitte. My passion is mathematics and statistics, and I specialize in mathematical finance and financial statistics. Hence, most of the time I study technical topics.
 
