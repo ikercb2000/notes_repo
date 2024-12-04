@@ -4,7 +4,6 @@ One of the most ambitious projects made by a Spanish student, for other Spanish-
 
 ### About Me
 
-<div style="text-align: justify;">
 Hi, y'all! Welcome to the repository of my most ambitious project: the Quanty Bounty. Before delving into this project, I want to present myself.
 
 <p align="center">
@@ -12,18 +11,50 @@ Hi, y'all! Welcome to the repository of my most ambitious project: the Quanty Bo
 </p>
 
 My name is Iker Caballero Bragagnini, I am a graduate student in Statistics and Mathematics with a background in Economics and Econometrics. I also work in the financial industry as a Quantitative Researcher & Developer for a Dutch fund and I also worked as a Quantitative Risk Analyst at Deloitte. My passion is mathematics and statistics, and I specialize in mathematical finance and financial statistics. Hence, most of the time I study technical topics.
-<\div>
 
 ### My Ambition
 
-<div style="text-align: justify;">
-The main ambition of the Quanty Bounty is to become one of the most complete sources of information and academic resources for Spanish-speaking students and others interested in technical disciplines like mathematics, statistics, and computer science, but also in important areas for society such as economics. These are notes based on the most relevant literature in the different areas and have been written by me during my studies and my free time.\\
+The main ambition of the Quanty Bounty is to become one of the most complete sources of information and academic resources for Spanish-speaking students and others interested in technical disciplines like mathematics, statistics, and computer science, but also in important areas for society such as economics. These are notes based on the most relevant literature in the different areas and have been written by me during my studies and my free time.
 
 I want every Spanish-speaking person to have free access to educational resources in the disciplines I am most interested in, and I hope readers can build a collaborative space to help each other.
-<\div>
 
 ### The Notes
 
-<div style="text-align: justify;">
+I will update the status of some of the notes here in order to have an idea of the state of the different notes:
+
+*STATISTICS*
+--------------
+
+- **TO READ**:
+- **IN REVIEW**:
+- **IN PROGRESS**:
+
+*MATHEMATICS*
+--------------
+
+- **TO READ**:
+- **IN REVIEW**:
+- **IN PROGRESS**:
+
+*ECONOMICS*
+--------------
+
+- **TO READ**:
+- **IN REVIEW**:
+- **IN PROGRESS**:
+
+*COMPUTER SCIENCE*
+--------------
+
+- **TO READ**:
+- **IN REVIEW**:
+- **IN PROGRESS**:
+
+*PHYSICS*
+--------------
+
+- **TO READ**:
+- **IN REVIEW**:
+- **IN PROGRESS**:
+
 If you want to tell me about some typos or recommendations, please contact me at ikercb2014@icloud.com.
-<\div>
