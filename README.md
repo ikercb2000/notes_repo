@@ -11,7 +11,7 @@ Hi, y'all! Welcome to the repository of my most ambitious project: the Quanty Bo
   <img src="images/Umeda_Sky.jpg" alt="Me at the Umeda Sky Building" width="350">
 </p>
 
-My name is Iker Caballero Bragagnini, I am a graduate student in Statistics and Mathematics with a background in Economics and Econometrics. I also work in the financial industry as a Quantitative Researcher & Developer for a Dutch fund and I also worked as a Quantitative Risk Analyst at Deloitte. My passion is mathematics and statistics, and I specialize in mathematical finance and financial statistics. Hence, most of the time I study technical topics.
+My name is Iker Caballero Bragagnini, I am a graduate student in Statistics and Mathematics with a background in Economics and Econometrics. I also work in the financial industry as a Quantitative Researcher & Developer for a Dutch fund and I also worked as a Quantitative Risk Analyst at Deloitte. My passion is mathematics and statistics, and I specialize in mathematical finance and financial statistics. Hence, most of the time I study technical topics. If you want to know more, please checkout my [CV](docs/.pdf).
 
 *My Ambition*
 ------------
