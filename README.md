@@ -23,29 +23,23 @@ I want every Spanish-speaking person to have free access to educational resource
 *The Notes*
 ------------
 
-I will update the status of some of the notes here in order to have an idea of the state of the different notes:
+I will update the status of some of the notes here to have an idea of the status of different files. However, bear in mind I will be always uploading different notes and there might never be a "complete" version because the area is too broad. I will just update the documents to get chapters or topics finished such that one can always study with certain depth what is written down, but there is always an extra topic to add in each area.
 
-### STATISTICS
+### MATHEMATICS AND STATISTICS
 
-- **TO READ**:
-- **IN REVIEW**:
-- **IN PROGRESS**:
-
-### MATHEMATICS
-
-- **TO READ**:
-- **IN REVIEW**:
-- **IN PROGRESS**:
+- **TO READ**: Algebra Lineal, Análisis Multivariante, Ecuaciones Diferenciales, Estadística Matemático, Estadística Bayesiana, Métodos Numéricos, Programación Entera, Programación Lineal y no Lineal, Series Temporales, Teoría de Juegos, Teoría de la Probabilidad
+- **IN REVIEW**: Aprendizaje Estadístico, Aprendizaje Profundo, Geometría
+- **IN PROGRESS**: Análisis Matemático, Lógica y Demostraciones
 
 ### ECONOMICS
 
-- **TO READ**:
-- **IN REVIEW**:
-- **IN PROGRESS**:
+- **TO READ**: Econometría, Economía Financiera, Finanzas Internacionales, Gestión del Riesgo, Valoración de Préstamos
+- **IN REVIEW**: Blockchain and Cryptos, Microestructura del Mercado, Renta Fija y Crédito
+- **IN PROGRESS**: Derivados, Market-Makers Automáticos, Modelaje de la Volatilidad Estocástica
 
 ### COMPUTER SCIENCE
 
-- **TO READ**:
+- **TO READ**: Clean Programming, HPC
 - **IN REVIEW**:
 - **IN PROGRESS**:
 
